@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @plotu77
+- 👀 I’m interested in electronics design, web coding, chocolate, music.
+- 🌱 I’m currently learning python, verilog
